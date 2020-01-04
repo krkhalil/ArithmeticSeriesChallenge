@@ -1,0 +1,145 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController start:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/ViewController.m
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/main.m
+main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/AppDelegate.h
+-[GameVC viewDidLoad]
+-[GameVC b1:]
+-[GameVC b2:]
+-[GameVC b3:]
+-[GameVC b4:]
+-[GameVC b5:]
+-[GameVC setScreen]
+-[GameVC setButtons]
+-[GameVC setEasyArray]
+-[GameVC setMediumArray]
+-[GameVC setHardArray]
+-[GameVC setChallengeArray]
+-[GameVC showFailAlert]
+___23-[GameVC showFailAlert]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[GameVC showFailAlertFinal]
+___28-[GameVC showFailAlertFinal]_block_invoke
+___copy_helper_block_.410
+___destroy_helper_block_.411
+-[GameVC showFailAlertAttempt]
+___30-[GameVC showFailAlertAttempt]_block_invoke
+___copy_helper_block_.413
+___destroy_helper_block_.414
+-[GameVC showPassedAlert]
+___25-[GameVC showPassedAlert]_block_invoke
+___copy_helper_block_.422
+___destroy_helper_block_.423
+-[GameVC showPassedAlertFinal]
+___30-[GameVC showPassedAlertFinal]_block_invoke
+___copy_helper_block_.429
+___destroy_helper_block_.430
+-[GameVC level]
+-[GameVC setLevel:]
+-[GameVC p1]
+-[GameVC setP1:]
+-[GameVC p2]
+-[GameVC setP2:]
+-[GameVC p3]
+-[GameVC setP3:]
+-[GameVC p4]
+-[GameVC setP4:]
+-[GameVC p5]
+-[GameVC setP5:]
+-[GameVC b1]
+-[GameVC setB1:]
+-[GameVC b2]
+-[GameVC setB2:]
+-[GameVC b3]
+-[GameVC setB3:]
+-[GameVC b4]
+-[GameVC setB4:]
+-[GameVC b5]
+-[GameVC setB5:]
+-[GameVC scoreLabel]
+-[GameVC setScoreLabel:]
+-[GameVC levelLabel]
+-[GameVC setLevelLabel:]
+-[GameVC .cxx_destruct]
+_OBJC_CLASS_$_GameVC
+_OBJC_IVAR_$_GameVC._level
+_OBJC_IVAR_$_GameVC.sum
+_OBJC_IVAR_$_GameVC.buttonCount
+_OBJC_IVAR_$_GameVC.index
+_OBJC_IVAR_$_GameVC.score
+_OBJC_IVAR_$_GameVC.count
+_OBJC_IVAR_$_GameVC.attempts
+_OBJC_IVAR_$_GameVC._b1
+_OBJC_IVAR_$_GameVC.targetNumber
+_OBJC_IVAR_$_GameVC._p5
+_OBJC_IVAR_$_GameVC._b2
+_OBJC_IVAR_$_GameVC._b3
+_OBJC_IVAR_$_GameVC._b4
+_OBJC_IVAR_$_GameVC._b5
+_OBJC_IVAR_$_GameVC._scoreLabel
+_OBJC_IVAR_$_GameVC.answerString
+_OBJC_IVAR_$_GameVC.dataArray
+_OBJC_IVAR_$_GameVC.SelectedItem
+_OBJC_IVAR_$_GameVC._levelLabel
+_OBJC_IVAR_$_GameVC._p1
+_OBJC_IVAR_$_GameVC._p2
+_OBJC_IVAR_$_GameVC._p3
+_OBJC_IVAR_$_GameVC._p4
+_OBJC_IVAR_$_GameVC.data
+_OBJC_IVAR_$_GameVC.t
+___block_descriptor_tmp
+___block_descriptor_tmp.412
+___block_descriptor_tmp.415
+___block_descriptor_tmp.424
+___block_descriptor_tmp.431
+_OBJC_IVAR_$_GameVC.target
+_OBJC_METACLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.n1
+_OBJC_IVAR_$_GameVC.n2
+_OBJC_IVAR_$_GameVC.n3
+_OBJC_IVAR_$_GameVC.n4
+_OBJC_IVAR_$_GameVC.randomButton
+_OBJC_IVAR_$_GameVC.timer
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/GameVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/GameVC.h
+__destroy_helper_block_
+__copy_helper_block_
+__30-[GameVC showPassedAlertFinal]_block_invoke
+__25-[GameVC showPassedAlert]_block_invoke
+__30-[GameVC showFailAlertAttempt]_block_invoke
+__28-[GameVC showFailAlertFinal]_block_invoke
+__23-[GameVC showFailAlert]_block_invoke
+-[SelectLevelVC viewDidLoad]
+-[SelectLevelVC viewWillAppear:]
+-[SelectLevelVC easy:]
+-[SelectLevelVC medium:]
+-[SelectLevelVC hard:]
+-[SelectLevelVC challenging:]
+_OBJC_CLASS_$_SelectLevelVC
+_OBJC_METACLASS_$_SelectLevelVC
+/Users/Macbook/Desktop/60 Dollars Apps/Arithmetic Series Challenge/SelectTheNextNumber/SelectLevelVC.m
